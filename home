@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Home Page</title>
+</head>
+	
+<style>
+ul li {
+padding: 1rem;
+display: inline-block;
+}
+</style>
+	
+<body id="Home Page">
+	<header>
+		<nav class="navbar">
+			<div class="container">
+				<ul class="horizontal-list">
+					<li><a href="../home/idoltracker.html">
+						IdolTracker</a></li>
+					<li><a href="../home/login.html">
+						Login</a></li>
+					<li><a href="../home/storylist.html">
+						Story List</a></li>
+					<li><a href="../home/units.html">
+						Units</a></li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<center>
+	<img src="../unitimages/enstars.png" title="Enstars" alt="">
+	</center>
+</body>
+</html>
